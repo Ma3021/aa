@@ -1,0 +1,47 @@
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+    
+}
+.text{
+    position: absolute;
+    bottom: 100px;
+    left: 20%;
+    color: white;
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0.75;
+ }
+ header{
+    
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 10px;
+ } 
+ nav{
+    position: absolute;
+    top: 50px;
+    left: 60%;
+    
+ }
+ a{
+    padding: 30px;
+    margin: 30px;
+    text-decoration: none;
+    text-align: center;
+    
+ }
+ .catering{
+    float: left;
+    padding: 20px;
+    margin: 20px;
+    background-color: beige;
+ }
+ .ourmenu{
+    float: right;
+    padding: 20px;
+    margin: 20px;
+    background-color: beige;
+ }
+ 
